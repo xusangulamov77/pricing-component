@@ -18,12 +18,13 @@
 
 html {
   font-size: 15px;
+  
 }
 
 body {
 background-color: rgb(196, 201, 205);
-background-image:url(https://media0.giphy.com/media/4Cw3s3mzwxS1EscdiZ/200w.gif?cid=6c09b952abuox8azneegh3ij1vhlkok8j2iydbg057cmbn8e&ep=v1_videos_search&rid=200w.gif&ct=v);
-  
+/* background-image:url(https://media0.giphy.com/media/4Cw3s3mzwxS1EscdiZ/200w.gif?cid=6c09b952abuox8azneegh3ij1vhlkok8j2iydbg057cmbn8e&ep=v1_videos_search&rid=200w.gif&ct=v);
+   */
 }
 
 
@@ -138,7 +139,7 @@ nav {
   font-size: 4.6rem;
 }
 
-.dollar-sign {
+.logo {
   font-size: 2.5rem;
 }
 
